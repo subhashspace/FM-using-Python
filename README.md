@@ -68,13 +68,13 @@ plt.plot(t,s)
 
 ### Tabular Column:
 
-asdfghjk
+<img width="1391" height="797" alt="image" src="https://github.com/user-attachments/assets/fb99f5e8-d137-4e40-a79f-3cf0d0c37063" />
 
 ---
 
 ### Calculation:
 
-asdfghjk
+<img width="917" height="807" alt="image" src="https://github.com/user-attachments/assets/8f3e5dda-4277-40ab-9ec8-e6c819f07461" />
 
 ---
 
